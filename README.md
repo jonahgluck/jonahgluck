@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student interested in software development, machine learning, competitive programming, and mathematics.
+I am a student interested in software development, machine learning, competitive programming, mathematics, and much more.
 <!-- <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](eventually will add linkedin url)

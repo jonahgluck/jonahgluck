@@ -8,8 +8,10 @@ I am a student interested in software development, machine learning, competitive
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](eventually will add stackoverflow url) -->
 
 
-<!-- Most used languages stats -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgluck&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_border=true)
-
-<!-- Contribution stats -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=jonahgluck&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true) -->
+<!-- Most used languages stats | Contribution stats -->
+<p float="left">
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgluck&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_border=true)|![](https://github-readme-stats.vercel.app/api?username=jonahgluck&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true) -->
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgluck&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jonahgluck&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" /> -->
+</p>

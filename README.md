@@ -12,6 +12,6 @@ I am a student interested in software development, machine learning, competitive
 <p float="left">
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgluck&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_border=true)|![](https://github-readme-stats.vercel.app/api?username=jonahgluck&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true) -->
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgluck&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgluck&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&hide_border=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jonahgluck&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" /> -->
 </p>

@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a student interested in software development, robotics, deep learning, competitive programming, mathematics, and much more.
+I am passionate about exploring a range of fields, including software development, robotics, deep learning, competitive programming, and mathematics. I am always eager to learn more and expand my knowledge.
+
+<!--  I am a student interested in software development, robotics, deep learning, competitive programming, mathematics, and much more. -->
 <!-- <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](eventually will add linkedin url)

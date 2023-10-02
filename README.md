@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am passionate about exploring a range of fields, including software development, robotics, deep learning, competitive programming, and mathematics. I am always eager to learn more and expand my knowledge.
+I am passionate about exploring a range of fields, including physics, robotics, deep learning, competitive programming, and mathematics.
 
 <!--  I am a student interested in software development, robotics, deep learning, competitive programming, mathematics, and much more. -->
 <!-- <br>
